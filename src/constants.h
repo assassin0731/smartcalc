@@ -1,0 +1,6 @@
+#ifndef CPP3_SMARTCALC_V2_0_CONSTANTS_H_
+#define CPP3_SMARTCALC_V2_0_CONSTANTS_H_
+
+constexpr int kNumOfSteps = 100000;
+
+#endif  // CPP3_SMARTCALC_V2_0_CONSTANTS_H_
