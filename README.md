@@ -6,6 +6,8 @@ Makefile имеет цели all, install, uninstall, clean, dvi, test.
 При написании проекта использовался патерн проектирования MVC.
 ![MVC](https://cdn.discordapp.com/attachments/500212367083307008/1110133662013464606/MVC-Process.png)
 ## Арифметические операторы и функции
+Калькулятор поддерживает целые числа, запись вещественных чисел через точку и в экспоненциальной форме, а так же следующие математические операции:
+
 <table>
 <tr><th>Арифметические операторы</th><th>Функции</th></tr>
 <tr><td>
@@ -47,6 +49,6 @@ Makefile имеет цели all, install, uninstall, clean, dvi, test.
 
 График строится в отдельном открывающемся окне.
 
-![MVC][(https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png)
+ ![MVC][(https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png)
 
 
