@@ -40,7 +40,7 @@ Makefile имеет цели all, install, uninstall, clean, dvi, test.
    
  ![MVC](https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png)
   
-
+## График функции
  
 
 
