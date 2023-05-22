@@ -38,7 +38,7 @@ Makefile имеет цели all, install, uninstall, clean, dvi, test.
 
 </td></tr> </table>
    
- ![MVC](https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png?width=838&height=609)
+ ![MVC]([https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png?width=838&height=609])
   
 
  
