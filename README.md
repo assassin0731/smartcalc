@@ -36,10 +36,9 @@ Makefile имеет цели all, install, uninstall, clean, dvi, test.
 | Вычисляет натуральный логарифм | ln(x) | 
 | Вычисляет десятичный логарифм | log(x) |
 
- ![MVC](https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png?width=838&height=609)
 </td></tr> </table>
    
-
+ ![MVC](https://media.discordapp.net/attachments/500212367083307008/1110134881947762719/image.png?width=838&height=609)
   
 
  
