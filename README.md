@@ -8,7 +8,7 @@ Makefile имеет цели all, install, uninstall, clean, dvi, test.
 ## Установка
 Установка произовидтся командой:
 
-`make install'
+`make install`
 
 Установленное приложение расположено по пути `/src/SmartCalc/Calcil.app`
 ## Арифметические операторы и функции
